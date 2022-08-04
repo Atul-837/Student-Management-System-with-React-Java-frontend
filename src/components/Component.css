@@ -1,0 +1,42 @@
+.header{
+    background-color: rgb(189, 185, 77);
+}
+
+.title{
+    color: aliceblue;
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.nav-link{
+    color: aliceblue;
+}
+
+.title:hover, .nav-link:hover{
+    color: bisque;
+}
+
+.ft{
+    background-color: #2f3e46;
+    min-height: 80px;
+   margin-bottom: 0px;
+
+        position: relative;
+  margin-top: +232px;
+
+}
+.ft-body{
+    background-color: #354f52;
+    align-items: center;
+    min-height: 80px;
+}
+.ft-title{
+    font-size: x-large;
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+.ft-icons{
+    margin-right: 20px;
+}
